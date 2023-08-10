@@ -1,5 +1,3 @@
-//mongodb+srv://creativellc2:7yoroxH8CIZFpaMZ@cluster0.2bo2sog.mongodb.net/
-
 const mongoose = require("mongoose");
 
 const connectDB = async () => {
